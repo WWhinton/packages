@@ -1,0 +1,12 @@
+configuration { modi: "window,drun,run,combi";
+ width: 900;
+ lines: 15;
+ collumns: 1;
+ terminal: "Alacritty";
+ combi-hide-mode-prefix: true;
+ font: "monospace";
+ bw: 1;
+}
+//@theme "/home/will/.local/share/rofi/themes/nord.rasi" @theme 
+//"/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/home/will/.local/share/rofi/themes/nord.rasi"
